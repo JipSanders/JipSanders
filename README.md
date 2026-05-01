@@ -66,10 +66,3 @@ Next.js · TypeScript · PostgreSQL · Capacitor · Stripe · E2E Encryption
 
 ---
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JipSanders&show_icons=true&hide_border=true&bg_color=141414&title_color=FF6B35&icon_color=FF4500&text_color=cccccc&count_private=true" height="155"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JipSanders&layout=compact&hide_border=true&bg_color=141414&title_color=FF6B35&text_color=cccccc&langs_count=6" height="155"/>
-
-</div>
