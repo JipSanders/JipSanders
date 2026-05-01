@@ -46,7 +46,7 @@ Next.js · TypeScript · PostgreSQL · Capacitor · Stripe · E2E Encryption
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| [The Flame](#) | Next.js · TypeScript · PostgreSQL | Reflective practice app — iOS & Web |
+| [The Flame](https://theflame.app/) | Next.js · TypeScript · PostgreSQL | Reflective practice app — iOS & Web |
 | [GAEA AI](https://github.com/JipSanders/LSE_Data_Analytics_2025) | Python · Time-series | Sales forecasting for a real employer project |
 | [Turtle Games](https://github.com/JipSanders/LSE_Data_Analytics_2025) | Python · R | Analytics for organisational impact |
 | [Jip's World](https://jipsanders.com) | HTML · CSS · JS · GSAP | This portfolio |
