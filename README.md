@@ -7,7 +7,7 @@
 Lived across South Africa, Thailand, Australia, and the Netherlands.  
 I build things that sit at the intersection of data, product, and lived experience.
 
-[![Portfolio](https://img.shields.io/badge/jipsanders.com-FF4500?style=flat-square&logoColor=white)](https://jipsanders.com)
+[![Portfolio](https://img.shields.io/badge/jipsanders.com-FF4500?style=flat-square&logoColor=white)](https://jrjsanders.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jip-sanders-b55b8321b)
 [![Email](https://img.shields.io/badge/Email-141414?style=flat-square&logo=gmail&logoColor=white)](mailto:jipsanders10@gmail.com)
 
